@@ -1,0 +1,36 @@
+[2021-11-29 11:09:09.019] [exthost] [info] Extension host with pid 17013 started
+[2021-11-29 11:09:09.057] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/23541bd666749e0761f5de79b8d5004e/vscode.lock': Lock acquired.
+[2021-11-29 11:09:09.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 11:09:09.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 11:09:09.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 11:09:09.628] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 11:09:09.636] [exthost] [info] Eager extensions activated
+[2021-11-29 11:09:14.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:14.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:14.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:14.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:14.922] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-29 11:09:14.923] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/23541bd666749e0761f5de79b8d5004e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-29 11:09:14.933] [exthost] [error] Activating extension vscode.npm failed due to an error:
+[2021-11-29 11:09:14.933] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at /home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at n.dispose (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:98:9012)
+	at b.terminate (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:103:694)
+	at o (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:113:32681)
+	at /home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:113:30562
+	at l.fire (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at s.fire (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:74:15990)
+	at f._receiveMessage (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:74:21260)
+	at /home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:74:18138
+	at l.fire (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:74:13351)
+	at /home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:74:12699
+	at l.fire (/home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at /home/spmi/.vscode-server/bin/b3318bc0524af3d74034b8bb8a64df0ccf35549a/out/vs/server/remoteExtensionHostProcess.js:113:19692
+	at afterWrite (internal/streams/writable.js:466:5)
+	at onwrite (internal/streams/writable.js:446:7)
+	at InflateRaw.afterTransform (internal/streams/transform.js:103:3)
+	at Zlib.processCallback (zlib.js:586:8)
+[2021-11-29 11:09:15.929] [exthost] [info] Extension host with pid 17013 exiting with code 0

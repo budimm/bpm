@@ -1,0 +1,13 @@
+[2021-11-29 11:09:17.580] [exthost] [info] Extension host with pid 17204 started
+[2021-11-29 11:09:17.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 11:09:17.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 11:09:17.695] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/23541bd666749e0761f5de79b8d5004e/vscode.lock': Lock acquired.
+[2021-11-29 11:09:18.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 11:09:18.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 11:09:18.417] [exthost] [info] Eager extensions activated
+[2021-11-29 11:09:54.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:php'
+[2021-11-29 11:09:54.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2021-11-29 11:10:04.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 17:33:54.387] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-11-29 17:33:54.387] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/23541bd666749e0761f5de79b8d5004e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-29 17:33:55.405] [exthost] [info] Extension host with pid 17204 exiting with code 0

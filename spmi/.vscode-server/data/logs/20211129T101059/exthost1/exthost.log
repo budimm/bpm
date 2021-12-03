@@ -1,0 +1,8 @@
+[2021-11-29 10:11:00.786] [exthost] [info] Extension host with pid 3308 started
+[2021-11-29 10:11:00.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 10:11:00.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 10:11:01.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 10:11:01.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 10:11:01.172] [exthost] [info] Eager extensions activated
+[2021-11-29 10:11:06.489] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-29 10:11:07.495] [exthost] [info] Extension host with pid 3308 exiting with code 0

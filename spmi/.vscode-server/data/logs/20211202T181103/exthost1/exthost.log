@@ -1,0 +1,11 @@
+[2021-12-02 18:11:08.681] [exthost] [info] Extension host with pid 6053 started
+[2021-12-02 18:11:08.713] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/309d2d1d1d4da56557ef5051767e3bbb/vscode.lock': Lock acquired.
+[2021-12-02 18:11:09.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-02 18:11:09.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-02 18:11:11.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-02 18:11:12.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-02 18:11:12.269] [exthost] [info] Eager extensions activated
+[2021-12-02 18:13:09.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2021-12-02 18:58:04.455] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-02 18:58:04.455] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/309d2d1d1d4da56557ef5051767e3bbb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-02 18:58:05.471] [exthost] [info] Extension host with pid 6053 exiting with code 0

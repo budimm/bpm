@@ -1,0 +1,14 @@
+[2021-11-29 11:08:38.949] [exthost] [info] Extension host with pid 16935 started
+[2021-11-29 11:08:38.993] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/309d2d1d1d4da56557ef5051767e3bbb/vscode.lock': Lock acquired.
+[2021-11-29 11:08:39.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 11:08:39.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 11:08:39.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 11:08:39.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 11:08:39.939] [exthost] [info] Eager extensions activated
+[2021-11-29 11:09:05.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:05.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:05.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:05.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-29 11:09:06.343] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-29 11:09:06.344] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/309d2d1d1d4da56557ef5051767e3bbb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-29 11:09:07.360] [exthost] [info] Extension host with pid 16935 exiting with code 0

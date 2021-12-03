@@ -1,0 +1,30 @@
+Validating found git in: git
+Using git 2.11.0 from git
+Opening repository for path='/home/spmi' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/spmi/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/spmi/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/spmi/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/spmi/.gitconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/spmi/.profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/spmi/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/spmi/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/spmi/.wget-hsts' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/spmi/google1140be75805c2a82.html' failed; ex=Error: spawn ENOTDIR

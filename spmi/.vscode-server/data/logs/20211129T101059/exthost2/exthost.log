@@ -1,0 +1,12 @@
+[2021-11-29 10:11:09.237] [exthost] [info] Extension host with pid 3337 started
+[2021-11-29 10:11:09.284] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/309d2d1d1d4da56557ef5051767e3bbb/vscode.lock': Lock acquired.
+[2021-11-29 10:11:09.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 10:11:09.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 10:11:09.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 10:11:09.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 10:11:09.617] [exthost] [info] Eager extensions activated
+[2021-11-29 10:31:59.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 10:31:59.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 11:08:16.205] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-29 11:08:16.206] [exthost] [info] Lock '/home/spmi/.vscode-server/data/User/workspaceStorage/309d2d1d1d4da56557ef5051767e3bbb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-29 11:08:17.218] [exthost] [info] Extension host with pid 3337 exiting with code 0
